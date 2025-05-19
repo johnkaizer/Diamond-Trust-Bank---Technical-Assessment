@@ -1,6 +1,6 @@
 # Banking Platform Microservices  - JOHN KAISER
 
-A modular microservices-based banking platform built using **Spring Boot** and **Java 17**, managing customers, accounts, and card services independently.
+A microservices-based banking platform built using **Spring Boot** and **Java 17**, managing customers, accounts, and card services.
 
 ---
 
@@ -121,7 +121,7 @@ mvn test
 ---
 
 ## 🧑‍💻 Author
-**John Kaiser [@johnkaizer]**
+**John Kaiser **
 
 ---
 
